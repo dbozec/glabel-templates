@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="Herma" part="4333" size="A4" description="Multipurpose Labels">
+    <Label-rectangle id="0" width="25.4mm" height="10mm" round="0mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="7" ny="27" x0="8mm" y0="14mm" dx="28mm" dy="10mm"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+
+  <Template brand="Agipa" part="119007" size="A4" description="Multipurpose Labels">
+    <Label-rectangle id="0" width="70mm" height="25mm" round="0mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="2mm"/>
+      <Layout nx="3" ny="11" x0="0mm" y0="11mm" dx="70mm" dy="25mm"/>
+    </Label-rectangle>
+  </Template>
+
+  <Template brand="Agipa" part="119012" size="A4" description="Multipurpose Labels">
+    <Label-rectangle id="0" width="105mm" height="37mm" round="0mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="2mm"/>
+      <Layout nx="2" ny="8" x0="0mm" y0="0mm" dx="105mm" dy="37mm"/>
+    </Label-rectangle>
+  </Template>
+
+</Glabels-templates>
